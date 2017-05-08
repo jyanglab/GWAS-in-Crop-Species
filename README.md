@@ -1,5 +1,6 @@
 # GWAS-in-Crop-Species
 This objective for this project is simulate and compare GWAS power in different crop speices under vairous situations including number of QTNs, effect values, and heritability.  
+All the files about this project are located at `/work/schnablelab/cmiao/GWAS-in-Crop-Species` in UNL HCC crane cluster.
 We collected several crop spieceis genotype data from published paper:
 - *[Sorghum bicolor](http://advances.sciencemag.org/content/1/6/e1400218.short)*
   - including **1,943** georeferenced landraces and **404,627** SNPs
@@ -16,4 +17,4 @@ We collected several crop spieceis genotype data from published paper:
   - **916** maize lines and **60 million** SNPs
   - whole genome resquencing technology with 1X ~ 46X
 
-All the raw genotype data are loated in `/work/schnablelab/cmiao/GWAS-in-Crop-Species/Genotypes` with a readme file describing the data resource in each speices directory.
+All the raw genotype data are loated at `/work/schnablelab/cmiao/GWAS-in-Crop-Species/Genotypes` with a readme file describing the data resource in each speices directory.
