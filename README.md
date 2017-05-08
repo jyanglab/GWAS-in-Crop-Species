@@ -12,10 +12,13 @@ We collected several crop spieceis genotype data from published papers
 - *[Oryza sativa](https://www.nature.com/articles/ncomms10532)*
   - A total of **1,568** rice accessions and **700,000** SNPs.
   - using micro-array technology.
-- *[Zea mays](http://biorxiv.org/content/biorxiv/early/2015/09/16/026963.full.pdf)*
+- *[Zea mays Whole genome resquecning](http://biorxiv.org/content/biorxiv/early/2015/09/16/026963.full.pdf)*
   - The paper wasn't published.
   - This data also contains other close species, like teosinte and tripsacum.
   - **916** maize lines and **60 million** SNPs
   - whole genome resquencing technology with 1X ~ 46X
+- *[Zea mays GBS](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-6-r55)*
+  - **2,815** maize inbred accessions and **681,257** SNPs
+  - Genotyping by sequencing technology was used
 
 All the raw genotype data are loated at `/work/schnablelab/cmiao/GWAS-in-Crop-Species/Genotypes` with a readme file describing the data resource in each speices directory.
