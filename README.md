@@ -6,7 +6,12 @@ We collected several crop spieceis genotype data from published paper:
   - Genotyping-by-sequecing with 23% having MAF < 0.01 and 65% of SNPs having MAF < 0.1.
 - *[Setaria italica](http://www.nature.com/ng/journal/v45/n8/abs/ng.2673.html)*
   - including **916** diverse varieties and **726,080** SNPs
-  - low genome resquecing with about 0.7 coverage
+  - low genome resquecing with about 0.7 coverage.
 - *[Oryza sativa](https://www.nature.com/articles/ncomms10532)*
   - A total of **1,568** rice accessions and **700,000** SNPs.
-  - using micro-array technology
+  - using micro-array technology.
+- *[Zea mays](http://biorxiv.org/content/biorxiv/early/2015/09/16/026963.full.pdf)*
+  - Not published.
+  - This data also contains other close species, like teosinte and tripsacum.
+  - whole genome resquencing technology with 1X ~ 46X
+  - **916** maize lines and **60 million** SNPs
