@@ -13,5 +13,5 @@ We collected several crop spieceis genotype data from published paper:
 - *[Zea mays](http://biorxiv.org/content/biorxiv/early/2015/09/16/026963.full.pdf)*
   - The paper wasn't published.
   - This data also contains other close species, like teosinte and tripsacum.
-  - whole genome resquencing technology with 1X ~ 46X
   - **916** maize lines and **60 million** SNPs
+  - whole genome resquencing technology with 1X ~ 46X
