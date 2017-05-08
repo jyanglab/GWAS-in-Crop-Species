@@ -1,5 +1,5 @@
 # GWAS-in-Crop-Species
-This objective for this project is simulate and compare GWAS power in different crop speices under vairous situations including number of QTNs, effect values, and heritability. 
+This objective for this project is simulate and compare GWAS power in different crop speices under vairous situations including number of QTNs, effect values, and heritability.
 We collected several crop spieceis genotype data from published paper:
 - *[Sorghum bicolor](http://advances.sciencemag.org/content/1/6/e1400218.short)*
   - including **1,943** georeferenced landraces and **404,627** SNPs
@@ -11,7 +11,7 @@ We collected several crop spieceis genotype data from published paper:
   - A total of **1,568** rice accessions and **700,000** SNPs.
   - using micro-array technology.
 - *[Zea mays](http://biorxiv.org/content/biorxiv/early/2015/09/16/026963.full.pdf)*
-  - Not published.
+  - The paper wasn't published.
   - This data also contains other close species, like teosinte and tripsacum.
   - whole genome resquencing technology with 1X ~ 46X
   - **916** maize lines and **60 million** SNPs
