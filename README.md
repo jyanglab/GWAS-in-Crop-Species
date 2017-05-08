@@ -16,4 +16,4 @@ We collected several crop spieceis genotype data from published paper:
   - **916** maize lines and **60 million** SNPs
   - whole genome resquencing technology with 1X ~ 46X
 
-All the raw genotype data are loated in '/work/schnablelab/cmiao/GWAS-in-Crop-Species/Genotypes' with a readme file describing the data resource in each speices directory.
+All the raw genotype data are loated in `/work/schnablelab/cmiao/GWAS-in-Crop-Species/Genotypes` with a readme file describing the data resource in each speices directory.
