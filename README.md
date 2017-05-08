@@ -1,5 +1,5 @@
 # GWAS-in-Crop-Species
-Simulate and compare GWAS power in different speices under vairous situations including number of QTNs, effect values, and heritability. 
+This objective for this project is simulate and compare GWAS power in different crop speices under vairous situations including number of QTNs, effect values, and heritability. 
 We collected several crop spieceis genotype data from published paper:
 - *[Sorghum bicolor](http://advances.sciencemag.org/content/1/6/e1400218.short)*
   - including **1,943** georeferenced landraces and **404,627** SNPs
