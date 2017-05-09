@@ -1,4 +1,5 @@
 # GWAS-in-Crop-Species
+
 This objective for this project is simulate and compare GWAS power in different crop speices under vairous situations including number of QTNs, effect values, and heritability.  
 All the files about this project are located at `/work/schnablelab/cmiao/GWAS-in-Crop-Species` in UNL HCC crane cluster.
 
